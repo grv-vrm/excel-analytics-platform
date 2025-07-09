@@ -115,15 +115,4 @@ export { auth, provider };
 - [ ] AI summary generation using OpenAI
 - [ ] User history tracking
 
----
 
-## 🧑‍💻 Credits
-
-Made with ❤️ by [Your Name]  
-Inspired by StudioPress-style layouts and educational projects from JavaScript Mastery.
-
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
